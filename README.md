@@ -23,7 +23,7 @@ With **[pH7CMS](https://sourceforge.net/projects/ph7socialdating/files/latest/do
 
 ### 🤗 100% Owned by You ❤
 
-**Don't let your webapp be controlled by others! 🚀**!
+**Don't let your webapp be controlled by others! 🚀**
 
 Why your business has to be under the mercy of others?
 By choosing pH7CMS, you have complete control of your website and your users!
